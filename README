@@ -1,0 +1,8 @@
+Project: SomewhereIRC
+Author: Philip Ng
+
+The goal of SomewhereIRC is to eventually create a full-featured but simple IRC client that will work across platforms.
+
+Note that somewhereIRC is an old attempt that I did in parallel to an intro to Java course.  As such, some of the code in it is odd, as I was experimenting with different ways of doing things as per the current unit in the class.  For example, trying to thread out all the windows and trying to see what was possible between them.
+
+I hope to start over soon, probably using Python instead.
